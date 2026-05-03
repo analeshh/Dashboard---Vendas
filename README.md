@@ -1,4 +1,4 @@
-![Dashboard](./assets/Paineldevendas.png)
+![Dashboard](Paineldevendas.png)
 
 --
 
