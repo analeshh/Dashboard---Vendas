@@ -2,11 +2,11 @@
 
 --
 
-# *📊 Sobre o Projeto*
+#📊 Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um dashboard no Microsoft Power BI com o objetivo de analisar dados de vendas, custos e margem, permitindo identificar os produtos e categorias mais lucrativas.
 
-#*🗂️ Base de Dados*#
+#🗂️ Base de Dados
 
 Os dados foram extraídos de planilhas do Microsoft Excel, contendo informações sobre produtos e vendas.
 📦 Tabela de Produtos
