@@ -59,7 +59,7 @@ Margem de R$ 1,54M, indicando boa rentabilidade
 Bebidas se destacam na participação
 Diferença de desempenho entre vendedores
 
-## bjetivo do Projeto
+### Objetivo do Projeto
 Transformar dados brutos em informações visuais e estratégicas para auxiliar na tomada de decisão.
 
 Transformar dados brutos em informações visuais e estratégicas para auxiliar na tomada de decisão.
