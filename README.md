@@ -16,7 +16,7 @@ Grupo do Produto
 Linha do Produto
 Fornecedor
 Custo Unitário
-🧾 Tabela de Vendas
+ Tabela de Vendas
 Contém os seguintes campos:
 Data da Venda
 Nota Fiscal
@@ -61,5 +61,6 @@ Diferença de desempenho entre vendedores
 
 ### Objetivo do Projeto
 Transformar dados brutos em informações visuais e estratégicas para auxiliar na tomada de decisão.
+
 
 Transformar dados brutos em informações visuais e estratégicas para auxiliar na tomada de decisão.
